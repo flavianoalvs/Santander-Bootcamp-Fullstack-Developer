@@ -1,5 +1,5 @@
 # Santander Bootcamp Fullstack Developer
-Repositório criado para acompannhamento do Bootcamp DIO - Santander
+Repositório criado para acompanhamento do Bootcamp DIO - Santander
 
 
 ### Links Úteis
